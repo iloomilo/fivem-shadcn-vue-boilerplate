@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
   <div
     class="flex flex-col gap-2 h-screen items-center justify-center bg-background"
   >
-    <h1>Hey!</h1>
-    <Button>Click me</Button>
+    <h1>shadcn x fivem !</h1>
+    <Button>This works!</Button>
   </div>
 </template>
